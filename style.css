@@ -121,7 +121,7 @@ font-size: 30px
 .hero-section{ 
     height: 370px;
     background-size: cover;
-    background-image: url("/img/hero_image.jpg");
+    background-image: url("hero_image.jpg");
     display: flex;
     justify-content: center;
     align-items: flex-end;
